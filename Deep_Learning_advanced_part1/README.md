@@ -7,5 +7,5 @@
 * *template* — папка/файл домашней работы
 * *solution* — папка/файл прорешанной работы 
 ## Список работ:
-- ## [Основы машинного обучения](https://github.com/Astraz93/Deep_Learning_MIPT_DLS/tree/main/Deep_Learning_elementary/1.%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python)
+- ## [Основы машинного обучения](https://github.com/AlekseiIvanov93/Deep_Learning_MIPT_DLS/tree/main/Deep_Learning_advanced_part1/01.%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
   - В этом домашнем задании требуется пройтись по полному фреймворку машинного обучения с помощью библиотеки sklearn
